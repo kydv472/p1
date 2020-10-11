@@ -2,122 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+ThopTV APK is undoubtedly one of the best ways for you to consume content on the web, without shelling heavy premiums. May it be international shows, sports or news, you can access all the content for free.
 
-[Link to another page](./another-page.html).
+Originally launched by Thopster Athen by aggregating all TV channels, this app became popular amongst users as it began to add more and more free content. The latest version of ThopTV APK has added a lot of free content for the users.
 
-There should be whitespace between paragraphs.
+This android app allows the users to watch live sports and pre-recorded serials in HD quality and with utmost ease. This app is particularly popular amongst the cricket enthusiasts in India, who rely on it for watching the IPL matches live for free.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Watch live TV channels from around the globe including US, India and other countries.
 
-# Header 1
+Users can use ThopTV APK to watch content on mobile/laptop and even on their android televisions. You can download the app from apkmozo and start watching your favorite drama, comedy serials and listen to radio channels as well.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Major services that users can avail from ThopTV APK include the following:
 
-## Header 2
+- Free live TV streaming
+- Live streaming of cricket & other sports matches
+- Support of thousands of best TV channels
+- Free movie streaming
+- Latest news coverage
+- Streaming of live radio channels
+- HD quality videos
+- Minimum ads
+- Supports a wide range of devices
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+We suggest you to download ThopTV APK version 41.0 immediately. Use this app and watch all the exciting IPL matches anytime and anywhere.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Download latest version of ThopTV APK Now!
