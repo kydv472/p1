@@ -26,12 +26,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_downloads %}
-        <a href="{{ '/assets/thoptv.apk'| relative_url }}" class="btn">Download ThopTv Apk</a>
+        <a href="{{ '/assets/thoptv.apk'| relative_url }}" class="btn" onclick="return emit();">Download ThopTv Apk</a>
       {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
     </main>
+    <script type="text/javascript">
+    function emit(){
+      console.log('function called');
+      ga('create', {trackingId: 'UA-180451723-1'});
+      ga('send', 'event', 'downloadApk', 'topBtn', 'thoptv');
+    }
+    </script>
   </body>
 </html>
