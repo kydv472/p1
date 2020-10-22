@@ -27,3 +27,5 @@ Major services that users can avail from ThopTV APK include the following:
 We suggest you to download ThopTV APK version 41.0 immediately. Use this app and watch all the exciting IPL matches anytime and anywhere.
 
 Download latest version of ThopTV APK Now!
+
+**Disclaimer**: Using ThopTV APK is not legal, as it might contain pirated content. We are not the developers of the Thoptv App in any way. We have just created this website for informational and educational purposes. We are not affiliated directly or indirectly to the app developers.
